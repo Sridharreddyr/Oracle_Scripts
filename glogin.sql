@@ -29,4 +29,3 @@ set sqlprompt "&_pr"
 column pr clear
 alter session set nls_date_format='YYYY-MM-DD HH24:MI:SS';
 set termout on
-[oracle@vm-dfx-stg-eastus-aef-oracle-01 admin]$
